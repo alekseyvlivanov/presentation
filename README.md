@@ -4,7 +4,7 @@ Prepare a presentation on a given topic, offered or approved by your mentor.
 
 ## Topics' list
 
-The whole list of appropriate topics can be found [here](presentation-topics.md).
+The whole list of appropriate topics can be found [here](https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/tasks/presentation-topics.md).
 
 ## Requirements:
 
